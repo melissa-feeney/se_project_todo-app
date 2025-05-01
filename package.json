@@ -1,0 +1,19 @@
+{
+  "name": "se_project_todo-app",
+  "version": "1.0.0",
+  "description": "This is a todo app that will easily track a user's todo items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissa-feeney/se_project_todo-app.git"
+  },
+  "author": "Melissa Feeney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissa-feeney/se_project_todo-app/issues"
+  },
+  "homepage": "https://github.com/melissa-feeney/se_project_todo-app#readme"
+}
